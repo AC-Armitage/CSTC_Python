@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: CSTC-PyPack
+Version: 0.1
+Summary: An example package for class
+Author: Abderrahim Chabir
+Author-email: chabirabd@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
