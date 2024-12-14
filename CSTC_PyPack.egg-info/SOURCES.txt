@@ -1,8 +1,0 @@
-setup.py
-CSTC_PyPack.egg-info/PKG-INFO
-CSTC_PyPack.egg-info/SOURCES.txt
-CSTC_PyPack.egg-info/dependency_links.txt
-CSTC_PyPack.egg-info/top_level.txt
-cstcPack/IP2Bin.py
-cstcPack/__init__.py
-cstcPack/getIP.py
